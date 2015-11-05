@@ -1,0 +1,40 @@
+.top{
+	text-align: left;
+	color: white;
+}
+.container-fluid{
+	padding: 0px;
+	color: transparent;
+	padding-bottom: 0px;
+	border: 20px;
+	border-height:2px;
+}
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+     
+}
+.mot {
+	text-align: center;
+	color: black;
+}
+h1{
+	color: black;
+	text-align: left;
+}
+h3{
+	color: white;
+	text-align: center;
+}
+body{
+	background-image: url(image/front3.jpg);
+	background-size: 100%;
+	display: block;
+	background-image: no-repeat;
+
+}
+.img-circle{
+	border-image-width: 200px;
+	border-image-height:200px;
+}
